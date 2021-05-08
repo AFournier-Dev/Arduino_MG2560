@@ -16,6 +16,56 @@ TP pour une carte MG2560 (Arduino) version FR ainsi que les bibliothèques de ba
 <br>
 <br>
 
-## Le projet Arduino a reçu un titre honorifique à l'Ars Electronica 20062, dans la catégorie Digital Communities.
+## Le projet Arduino a reçu un titre honorifique à l'Ars Electronica 2006, 2 dans la catégorie Digital Communities.
 
 [source Arduino](https://www.arduino.cc/)
+
+
+# Sommaire des leçons
+<br>
+- Leçon 0 Installation de l’environnement de programmation. <br>
+- Leçon 1 Ajouter une bibliothèque / utiliser le moniteur série. <br>
+<br><br>
+
+Partie 1:<br>
+- Leçon 2: Blink.<br>
+- Leçon 3: LED.<br>
+- Leçon 4: RGB LED.<br>
+- Leçon 5: Digital Inputs.<br>
+- Leçon 6: Active buzzer.<br>
+- Leçon 7: Passive Buzzer.<br>
+- Leçon 8: Tilt Ball Switch.<br>
+- Leçon 9: Servomoteur.<br>
+
+<br><br>
+Partie 2:<br>
+- Leçon 10: Ultrasonic Sensor Module.<br>
+- Leçon 11: Membrane Switch Module.<br>
+- Leçon 12: DHT11 Temperature and Humidity Sensor.<br>
+- Leçon 13: Analog Joystick Module.<br>
+- Leçon 14: IR Receiver Module.<br>
+- Leçon 15: MAX7219 LED Dot Matrix Module.<br>
+- Leçon 16: GY-521 Module.<br>
+- Leçon 17: HC-SR501 PIR Sensor.<br>
+- Leçon 18: Water Level Detection Sensor Module.<br>
+- Leçon 19: Real Time Clock Module.<br>
+
+<br><br>
+Partie 3:<br>
+- Leçon 20: Sound Sensor Module.<br>
+- Leçon 21: RC522 RFID Module.<br>
+- Leçon 22 :LCD Display.<br>
+- Leçon 23 :Thermometer.<br>
+- Leçon 24 :Eight LED with 74HC595.<br>
+- Leçon 25 :The Serial Monitor.<br>
+- Leçon 26 :Photocell.<br>
+- Leçon 27 :74HC595 And Segment Display.<br>
+- Leçon 28 :Four Digital Seven Segment Display.<br>
+- Leçon 29 :DC Motors.<br>
+- Leçon 30 :Relay.<br>
+
+<br><br>
+Partie 4:<br>
+- Leçon 31 :Stepper Motor.<br>
+- Leçon 32 :Controlling Stepper Motor With Remote.<br>
+- Leçon 33 :Controlling Stepper Motor With Rotary Encoder.<br>
